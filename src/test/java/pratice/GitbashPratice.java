@@ -7,6 +7,7 @@ public class GitbashPratice {
 System.out.println("Hiiiii");
 System.out.println("helloo");
 System.out.println("bye");
+System.out.println("gd night");
 	}
 
 }
